@@ -50,3 +50,4 @@ fields:
   description: You can filter by featured content on your homepage
 pages:
 - content/post/hello-world.md
+- content/project/findaport-com.md
