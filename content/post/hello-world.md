@@ -1,17 +1,17 @@
 +++
-authors = []
+authors = ["xiang"]
 date = ""
 draft = true
 featured = false
 projects = []
 subtitle = ""
-summary = ""
-tags = []
+summary = "Something cool"
+tags = ["ruby"]
 title = "Hello World"
 [image]
-caption = ""
+caption = "cool"
 focal_point = ""
-placement = nil
+placement = 1
 
 +++
 # Hellow world
